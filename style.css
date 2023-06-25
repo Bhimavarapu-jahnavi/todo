@@ -1,8 +1,7 @@
 
 body {
-  font-family: Arial, sans-serif;
+  font-family:Georgia, 'Times New Roman', Times, serif;
   margin: 20px;
-  background-image: url(stacked-steps-haikei.svg);
   text-align: center;
 } 
 
@@ -11,7 +10,7 @@ h1 {
   /* color: #fff;
   background-image: radial-gradient(circle, red, yellow, green); */
   font-size: 72px;
-  background: -webkit-linear-gradient(#eee, #3f3f3f);
+  background: -webkit-linear-gradient(#eee, #e72831);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
   
@@ -36,7 +35,7 @@ ul {
   
 .completed {
   text-decoration: line-through;
-  color: green;
+  color: rgb(176, 26, 108);
 }
 
 .incomplete {
